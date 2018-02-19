@@ -260,6 +260,10 @@
                 "0": {
                     "key": "D",
                     "label": "D"
+                },
+                "1": {
+                    "key": "CONS:MUTE",
+                    "label": "MUTE"
                 }
             }
         },
@@ -273,6 +277,10 @@
                 "0": {
                     "key": "S",
                     "label": "S"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -286,6 +294,10 @@
                 "0": {
                     "key": "A",
                     "label": "A"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
@@ -544,12 +556,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LOCK2",
-                    "label": "LOCK-2"
-                },
-                "1": {
-                    "key": "F12",
-                    "label": "F12"
+                    "key": "LAT2",
+                    "label": "LATCH-2"
                 }
             }
         },
